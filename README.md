@@ -15,9 +15,9 @@ This plugin was coded in 30 minutes and serves as a straightforward yet practica
 
 ## How to Use
 To translate a message, format it like so:
-- <sourceLang> Your Message Here <targetLang>
+- '<sourceLang> Your Message Here <targetLang>'
 For example, 
-- <en> Hello <es> 
+- '<en> Hello <es>'
 
 will translate "Hello" from English to Spanish for all players receiving the message.
 
