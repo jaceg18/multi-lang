@@ -1,0 +1,6 @@
+name: MultiLang
+version: '${project.version}'
+main: github.jaceg18.multilang.multilang.MultiLang
+api-version: 1.18
+authors: [ ftJace ]
+description: Lightweight plugin for real time language translations.
