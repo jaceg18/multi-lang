@@ -11,15 +11,11 @@ This plugin was coded in 30 minutes and serves as a straightforward yet practica
 - Build the plugin using your favorite Java build tool (e.g., Maven, Gradle).
 - Place the generated .jar file into the plugins folder of your Spigot/Bukkit server.
 - Restart the server to enable the plugin.
+- Or download jar directly from the link below.
 
 
 ## How to Use
-To translate a message, format it like so:
-- '<sourceLang> Your Message Here <targetLang>'
-For example, 
-- '<en> Hello <es>'
-
-will translate "Hello" from English to Spanish for all players receiving the message.
+- See https://www.spigotmc.org/resources/multi-lang.112529/
 
 ## Code Explanation
 The plugin mainly consists of two parts:
