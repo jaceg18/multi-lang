@@ -1,5 +1,7 @@
 # Multi-lang
 
+(This plugin works, but it's barely started. If anyone want's this to be completed, please let me know)
+
 A simple Minecraft plugin that enables chat translations in real-time using the free MyMemory API. Ideal for small to mid-scale servers.
 
 This plugin was coded in 30 minutes and serves as a straightforward yet practical tool for in-game language translation.
